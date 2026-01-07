@@ -1,5 +1,10 @@
 {
   "appId": "com.honorsgolf.app",
   "appName": "Honors Golf",
-  "webDir": "www"
+  "webDir": "www",
+  "server": {
+    "url": "https://golfhonors.com",
+    "cleartext": false
+  }
 }
+
